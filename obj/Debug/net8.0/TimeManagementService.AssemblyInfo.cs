@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeManagementService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd21a80cb77c686a70c603c68197527855f54f29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2806910db542d157ea94392e6e08eeda6760970")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeManagementService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeManagementService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
