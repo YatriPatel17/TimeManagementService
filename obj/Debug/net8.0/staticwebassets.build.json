@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eMDwZTedylPGxM5tZdrq0FxcUco4xK9bLyx06BEiUqI=",
+  "Source": "TimeManagementService",
+  "BasePath": "_content/TimeManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
