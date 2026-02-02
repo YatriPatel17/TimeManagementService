@@ -84,7 +84,7 @@ namespace TimeManagementService.Controllers
                     throw;
                 }
             }
-            return NoContent();
+            return Accepted();
         }
 
         [HttpDelete("{id}")]
